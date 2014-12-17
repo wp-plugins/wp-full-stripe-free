@@ -3,7 +3,7 @@ Contributors: Mammothology
 Donate link: http://mammothology.com/
 Tags: payments, stripe, credit cards, payment gateway, payment plugin, commerce
 Requires at least: 3.5.2
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,8 @@ The free edition of WP Full Stripe has the following features:
 1. Create bank transfers (US Only).
 1. Use Stripe Checkout style popup & responsive forms.
 1. Fully customize Stripe Checkout forms to include things like custom image and "remember-me" option.
+1. Add custom fields to payment & subscription forms.
+1. Improved UI and WordPress integration.
 1. Easily add custom CSS on your forms.
 1. Send custom email payment receipts with dynamic content.
 1. Regular updates and feature additions.
@@ -57,6 +59,12 @@ The free version of WP Full Stripe has limited support via our [Support Forms](h
 Our paid members receive fast turnaround email support as well.  Check out all of our 5 star ratings on CodeCanyon
 we have 100's of happy customers.  [Mammothology on CodeCanyon](http://codecanyon.net/user/Mammothology)
 
+== Metrics for Stripe ==
+
+Customer metrics and analytics for your Stripe business, straight from your WordPress dashboard.
+[K.O. Metrics](https://kometrics.com) is a new WordPress plugin from Mammothology. It gives you valuable metrics about your business allowing you to have a high level view on your finances. 
+[K.O. Metrics](https://kometrics.com) allows you to understand your recurring revenues, what fees you pay, the value of your customers and much more.
+This is the kind of data that can save you money, lots of money. [Check out K.O. Metrics](https://kometrics.com) for more information.
 
 == Frequently Asked Questions ==
 
@@ -66,6 +74,8 @@ We maintain a set of frequently asked questions on the [Support Forms](http://ma
 
 = 1.0 =
 * Initial release of WP Full Stripe Free.
+= 1.1 =
+* Tested & working for WordPress 4.1
 
 == Screenshots ==
 
