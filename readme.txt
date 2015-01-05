@@ -46,6 +46,8 @@ The free edition of WP Full Stripe has the following features:
 
 [Check out the paid version of WP Full Stripe](http://codecanyon.net/item/wp-full-stripe/5266365?ref=mammothology)
 
+We have a demo at [paymentsplugin.com](paymentsplugin.com) and you can see the latest changelog for the premium version on our [WP Full Stripe CodeCanyon page](http://codecanyon.net/item/wp-full-stripe/5266365?ref=mammothology)
+
 == Installation ==
 
 1. Upload plugin to the `/wp-content/plugins/` directory
